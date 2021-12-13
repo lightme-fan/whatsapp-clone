@@ -13,9 +13,9 @@
 - Socket.io
 
 ## Features
-- A tab for conversation
-- A tab for contacts
-- Sending messages to each other using socket.io
+- A tab for conversation.
+- A tab for contacts.
+- Sending messages to each other using socket.io.
 
 ## Getting started
 ```bash
@@ -25,7 +25,9 @@ $ cd client
 $ cd server
 
 # Install dependencies
-$ yarn install on client
+$ cd client 
+$ yarn install
+$ cd server 
 $ yarn install on server
 
 # Run the app
